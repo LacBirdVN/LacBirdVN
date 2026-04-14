@@ -1,14 +1,9 @@
 # Hi 👋 I'm Dat,
 
-🤖 Mechatronics Engineering Student
-🔧 Interested in Robotics, Embedded Systems & Automation
-📍 Based in Vietnam
-
 ## 👨‍💻 About Me
 
-* 🎓 Studying Mechatronics (Mechanical + Electronics + Programming)
-* ⚙️ Passionate about building real-world systems (robot, automation)
-* 🔌 Learning microcontrollers & hardware integration
+* 🎓 Studying Mechatronics
+* 🔧 Interested in Robotics, Embedded Systems & Automation
 * 🎯 Goal: Become a Robotics / Embedded Engineer
 
 ## 🛠 Tech Stack
